@@ -22,7 +22,7 @@ This is a Python project for tracking fitness data, including daily steps, calor
 1. Clone this repository or download the script to your local machine.
 2. Install the required dependencies:
    ```bash
-   pip install numpy matplotlib
+   pip3 install numpy matplotlib
    ```
 
 ## How to Run
